@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Anton);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+body {background:radial-gradient(ellipse at center, rgba(222,149,163,1) 0%, rgba(222,149,163,1) 28%, rgba(142,207,116,1) 58%, rgba(175,23,235,1) 100%);
+    background-attachment: fixed;
+	font-family: Pacifico;}
+a:hover { 
+    background-color: #cccccc;
+}
+	
+.Montserrat{
+	font-family: Montserrat;
+}
+.Anton{
+	font-family: Anton;
+}
+.lobster{
+	font-family: lobster;
+}
+.ShadowsIntoLight{
+	font-family: Shadows Into Light
+}
+a:hover { 
+    background-color: #cccccc;
+}
+	
+	

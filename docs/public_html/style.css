@@ -1,0 +1,17 @@
+::-webkit-scrollbar {
+height: 12px;
+width:12px;
+background: 	black;
+-webkit-border-radius: 1ex;
+}
+::-webkit-scrollbar-thumb {
+/*chrome 10*/
+background-image: -webkit-gradient(radial, center center, 0, center center, 437, color-stop(0,black), color-stop(1, black));
+/*chrome 11+ */
+background-image: -webkit-radial-gradient(center, circle cover, gold 20%, black 100%);
+-webkit-border-radius: 1ex;
+-webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.75);
+}
+::-webkit-scrollbar-corner {
+background: 	black;
+}
